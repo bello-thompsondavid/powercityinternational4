@@ -153,6 +153,15 @@
             border-radius: 2px;
         }
 
+       
+        .homeb{
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            
+        }
+
+
         /* Hero Section */
         .hero {
             min-height: 100vh;
